@@ -2,6 +2,10 @@
 
 The `populateUK` project visualizes the population density of UK regions using a choropleth map. The project combines geographical data of UK regions (kaggle UK dataset) with population data to create an interactive map that displays population density variations across the country.
 
+Kaggle:
+
+https://www.kaggle.com/datasets/dorianlazar/uk-regions-geojson
+
 ## Table of Contents
 
 - [Overview](#overview)
