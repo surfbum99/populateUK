@@ -1,6 +1,6 @@
 # populateUK
 
-The `populateUK` project visualizes the population density of UK regions using a choropleth map. The project combines geographical data of UK regions with population data to create an interactive map that displays population density variations across the country.
+The `populateUK` project visualizes the population density of UK regions using a choropleth map. The project combines geographical data of UK regions (kaggle UK dataset) with population data to create an interactive map that displays population density variations across the country.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ This project generates an interactive map that uses Folium to visualize populati
 
 ## Requirements
 
-You need Python (preferably version 3.x) and the following libraries installed:
+You need Python version 3.x and the following libraries installed:
 
 - `pandas` for data manipulation
 - `geopandas` for working with geographical data (GeoJSON)
